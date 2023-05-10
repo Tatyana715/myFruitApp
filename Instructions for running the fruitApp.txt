@@ -2,7 +2,7 @@ Specified app created using Java Script on Node.js. Also, it require install 'cs
 Instruction to run application:
 1) Set Up Latest Node.js
 2) Set Up 'npm'
-3) Download application code from GitHub Repository or unzip archived files attached to the email
+3) Download application code from GitHub Repository https://github.com/Tatyana715/myFruitApp or unzip archived files attached to the email
 4) A csv file (of fruits) as a run time parameter should be set in root folder of app. 
 5) app.js file should contain variable 'filePath' to represent file path to csv file with fruits
 6) Run command 'npm install csv-parser' or 'npm install' to install csv parser plug in
